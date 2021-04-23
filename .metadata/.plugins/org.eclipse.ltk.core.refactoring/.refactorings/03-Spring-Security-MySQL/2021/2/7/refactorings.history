@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.service.UserDetailsService&apos; to &apos;MyUserDetailsService&apos;&#x0D;&#x0A;- Original project: &apos;03-Spring-Security-MySQL&apos;&#x0D;&#x0A;- Original element: &apos;com.example.service.UserDetailsService&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.service.MyUserDetailsService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserDetailsService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.example.service{UserDetailsService.java[UserDetailsService" matchStrategy="1" name="MyUserDetailsService" qualified="false" references="true" similarDeclarations="false" stamp="1612785477952" textual="false" version="1.0"/>
+</session>
